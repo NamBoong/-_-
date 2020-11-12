@@ -14,7 +14,7 @@ public class Main17388 {
 		
 		System.out.println(answer(a, b, c));
 
-		
+		scan.close();
 	}
 	
 	public static String answer(int a, int b, int c) {
