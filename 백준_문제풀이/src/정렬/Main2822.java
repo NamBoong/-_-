@@ -60,6 +60,7 @@ public class Main2822 {
 			System.out.printf(answer[i] + " ");
 		}
 		
+		scan.close();
 	}
 
 }
